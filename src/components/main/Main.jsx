@@ -54,7 +54,7 @@ export default function Main(){
 
                         <div class="s-data">
                             <div class="s-head">
-                                <h3 class="s-name">E - Edejdje</h3>
+                                <h3 class="s-name">E - Engineering</h3>
                                 <span class="s-number">70%</span>
                             </div>
                             <div class="s-bar s-l">
